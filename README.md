@@ -82,6 +82,13 @@ Paid acquisition for e-commerce, DTC, SaaS and lead-generation businesses. Meta 
 | Tracking & data | Meta Pixel, Conversions API, server-side tracking, GA4, GTM, attribution, Excel/Google Sheets |
 | E-commerce & CRM | Shopify, CRM and lead-sheet integrations, landing-page optimisation |
 
+## Services
+
+- [Meta ads expert for Shopify & DTC brands](https://ali-raza-ppc.github.io/meta-ads-expert-for-shopify/)
+- [TikTok ads freelancer for e-commerce](https://ali-raza-ppc.github.io/tiktok-ads-freelancer/)
+- [Google Ads & Meta lead generation for service businesses](https://ali-raza-ppc.github.io/google-ads-lead-generation/)
+- [Hire a remote PPC specialist (US hours)](https://ali-raza-ppc.github.io/hire-remote-ppc-specialist/)
+
 ## Experience
 
 | Role | Company | Dates |
